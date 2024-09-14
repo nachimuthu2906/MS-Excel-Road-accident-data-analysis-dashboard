@@ -28,7 +28,7 @@
  
 
   <h2>📝 Data Sources</h2>
-  <p>The dataset used for this analysis is publicly available <a href="[https://link-to-dataset.com](https://github.com/nachimuthu2906/Road-accident-data-analysis-dashboard/raw/main/Road%20accident%20dataset.zip)">Road Accident Dataset</a>.</p>
+  <p>The dataset used for this analysis is publicly available <a href="https://github.com/nachimuthu2906/Road-accident-data-analysis-dashboard/raw/main/Road%20accident%20dataset.zip">Road Accident Dataset</a>.</p>
 
   <h2>📊 Visuals</h2>
   <p>Here are some of the visuals generated in this analysis:</p>
@@ -38,8 +38,3 @@
     <li>Accident severity breakdown (pie chart).</li>
   </ul>
 
-  <h2>🤝 Contribution</h2>
-  <p>Feel free to fork this repository and contribute improvements or additional features! You can submit a pull request or open an issue to discuss your suggestions.</p>
-
-  <h2>📄 License</h2>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
