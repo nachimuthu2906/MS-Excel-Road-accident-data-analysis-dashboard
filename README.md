@@ -25,16 +25,10 @@
     <li>Severity of accidents based on various conditions like weather and time of day.</li>
   </ul>
 
-  <h2>🚀 Getting Started</h2>
-  <ol>
-    <li><strong>Clone the repository</strong>:
-      <pre><code>git clone https://github.com/your-username/road-accident-data-analysis.git</code></pre>
-    </li>
-    <li><strong>Open the Excel file</strong>: Download the <code>.xlsx</code> file from the repository and open it in Excel.</li>
-  </ol>
+ 
 
   <h2>📝 Data Sources</h2>
-  <p>The dataset used for this analysis is publicly available <a href="https://link-to-dataset.com">Road Accident Dataset</a>.</p>
+  <p>The dataset used for this analysis is publicly available <a href="[https://link-to-dataset.com](https://github.com/nachimuthu2906/Road-accident-data-analysis-dashboard/raw/main/Road%20accident%20dataset.zip)">Road Accident Dataset</a>.</p>
 
   <h2>📊 Visuals</h2>
   <p>Here are some of the visuals generated in this analysis:</p>
