@@ -39,5 +39,5 @@
   </ul>
   
 <h2> Dashboard preview</h2>
-[image](https://github.com/user-attachments/assets/7ee4ed62-a3dd-4893-b8f9-1e4a0c881a18)
+<img src = "https://github.com/user-attachments/assets/7ee4ed62-a3dd-4893-b8f9-1e4a0c881a18" >
 
